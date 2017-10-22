@@ -1,7 +1,7 @@
 Mars Rover Kata
 ==========
 
-#Description
+Description
 ==========
 Develop an api that moves a rover around on mars surface
 - You are given the initial starting point (x,y) of a rover and the direction (N,S,E,W) it is facing.
@@ -12,7 +12,7 @@ Develop an api that moves a rover around on mars surface
 - Implement obstacle detection before each move to a new square. If a given sequence of commands encounters an obstacle, the rover moves up to the last possible point and reports the obstacle.
 
 
-#Test
+Test
 ==========
 To run the tests just run:
 
